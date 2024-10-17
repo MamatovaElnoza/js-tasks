@@ -1,3 +1,30 @@
+let signIn = {
+    userName: 'choyxor-girl',
+    password: '12202909'
+}
+let lol = prompt('enter your username');
+let loo = prompt('enter your password');
+
+if (lol === signIn.userName && loo === signIn.password) {
+    console.log('welcome to the site');
+} else if (loo != signIn.password && lol != signIn.userName) {
+    console.log('your username and password are incorrect');
+    let wrong = prompt('do you want to change your info? ("ha" if yes) ("yoq" if not)')
+    if (wrong === 'ha') {
+        console.log('enter new username on the prompt section!');
+        let newUsername = prompt('enter your new username');
+        let newUserpassword = prompt('enter your new password');
+        console.log(`  Congratulations! ${newUsername} your new info is available now! Your password is ${newUserpassword} `);
+    }
+    else {
+        console.log('your info is still the same!');
+    }
+}
+
+
+
+
+
 
 // let person = {
 //     userName: prompt('enter your name'),
