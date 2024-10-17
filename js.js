@@ -1,4 +1,21 @@
 
+// let person1 = prompt('enter ur name');
+
+// let userName = ['islom', 'elnoza']
+// userName.unshift(person1)
+// console.log(userName);
+
+
+// const userName = ['islomerwre','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abbos','islom','ali','Elnoza','Azizbek','Abboswetwret']
+
+// for (let i = userName.length -1; i >= 0; i--){
+//     console.log(userName[i]);
+// }
+
+
+
+
+
 // for (let number = 19; number <= 100; number++) {
 //     if (number % 3 === 0 && number % 5 === 0) {
 //         console.log('fizzbuzz');
