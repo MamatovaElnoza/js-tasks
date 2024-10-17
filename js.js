@@ -1,4 +1,24 @@
 
+// let person = {
+//     userName: prompt('enter your name'),
+//     userSurname: prompt('enter your surname'),
+//     userAge: prompt('enter your age')
+// }
+// console.log(person.userName);
+// console.log(person.userSurname);
+
+// if (person.userAge >= 18) {
+//     console.log('adult');
+// } else if (person.userAge <= 18) {
+//     console.log('teenage');
+// }
+
+
+
+
+
+
+
 // let person1 = prompt('enter ur name');
 
 // let userName = ['islom', 'elnoza']
