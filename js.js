@@ -1,4 +1,12 @@
 
+const heading1 = document.querySelector('h1');
+heading1.remove();
+
+const heading2 = document.querySelectorAll('h1');
+heading2[1].remove();
+
+
+
 // let scores = [78,99,59,33,88,66];
 // for (let i = 0; i <= scores.length-1; i++)
 // {
