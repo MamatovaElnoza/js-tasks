@@ -1,18 +1,21 @@
 
-let scores = prompt ('enter your score');
-if (scores >= 95) {
-    console.log('Grade: A');
-} else if (scores >= 82) {
-    console.log('Grade: B');
-} else if (scores >= 76) {
-    console.log('Grade: C');
-} else if (scores >= 61) {
-    console.log('Grade: D');
-} else if (scores >= 55) {
-    console.log('Grade: F');
-} else {
-    console.log('FAILED!');
-}
+// let scores = [78,99,59,33,88,66];
+// for (let i = 0; i <= scores.length-1; i++)
+// {
+//     if (scores[i] >= 95) {
+//         console.log(`${scores[i]} Grade A`);
+//     } else if (scores[i] >= 82) {
+//         console.log(`${scores[i]} Grade B`);
+//     } else if (scores [i]>= 76) {
+//         console.log(`${scores[i]} Grade C`);
+//     } else if (scores [i]>= 61) {
+//         console.log(`${scores[i]} Grade D`);
+//     } else if (scores [`${i}`]>= 55) {
+//         console.log(`${scores[i]} Grade F`);
+//     } else {
+//         console.log(`${scores[i]} FAILED!`);
+//     }
+// }
 
 
 
