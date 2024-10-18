@@ -1,4 +1,22 @@
 
+// function fizzBuzz(amal, num1, num2) {
+//     if (amal == '%' && amal % 5 === 0) {
+//         console.log('fizzbuzz');
+//     }
+//     else if (amal % 3 === 0) {
+//         console.log('fizz');
+//     }
+//     else if (amal % 5 === 0) {
+//         console.log('buzz');
+//     }
+// }
+// fizzBuzz('%', 3, 5)
+
+
+
+
+
+
 // let number = 10;
 // if (number % 3 === 0 && number % 5 === 0) {
 //     console.log('fizzbuzz');
