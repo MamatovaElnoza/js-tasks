@@ -1,4 +1,23 @@
 
+let scores = prompt ('enter your score');
+if (scores >= 95) {
+    console.log('Grade: A');
+} else if (scores >= 82) {
+    console.log('Grade: B');
+} else if (scores >= 76) {
+    console.log('Grade: C');
+} else if (scores >= 61) {
+    console.log('Grade: D');
+} else if (scores >= 55) {
+    console.log('Grade: F');
+} else {
+    console.log('FAILED!');
+}
+
+
+
+
+
 // function myFunction(number, current = 1, results = []) { 
 //     if (current > number) { 
 //         return results; 
